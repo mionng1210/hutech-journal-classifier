@@ -1,0 +1,10 @@
+{
+  "name": "hutech-journal-checker",
+  "version": "1.0.0",
+  "description": "Tool to check journal login requirements based on Full text (PMC) availability.",
+  "main": "check_journal.js",
+  "dependencies": {
+    "puppeteer-core": "^22.6.0",
+    "exceljs": "^4.4.0"
+  }
+}
