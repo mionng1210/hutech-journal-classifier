@@ -1,0 +1,29 @@
+# Node.js / Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Các file kết quả sinh ra từ Tool (Classification Results)
+classification_results.json
+classification_results.csv
+classification_results.xlsx
+
+# File Logs
+run_details.log
+
+# Trình soạn thảo VS Code
+.vscode/
+
+# Môi trường (nếu sau này bạn có dùng để ẩn email/pass)
+.env
+.env.local
+
+# Các file tạm của hệ điều hành
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Puppeteer cache (nếu có lưu local)
+.local-chromium/

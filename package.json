@@ -4,7 +4,10 @@
   "description": "Tool to check journal login requirements based on Full text (PMC) availability.",
   "main": "check_journal.js",
   "dependencies": {
+    "cli-progress": "^3.12.0",
+    "exceljs": "^4.4.0",
     "puppeteer-core": "^22.6.0",
-    "exceljs": "^4.4.0"
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }
